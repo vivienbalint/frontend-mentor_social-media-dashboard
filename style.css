@@ -203,6 +203,7 @@ input:checked + .slider::before {
 .sum {
   font-size: 50px;
   color: var(--text-two);
+  font-weight: 700;
 }
 
 .label {
